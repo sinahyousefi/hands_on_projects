@@ -1,4 +1,4 @@
-📅 Day 1: Time Series Forecasting (ARIMA & Prophet)
+📅 Project 1: Time Series Forecasting (ARIMA & Prophet)
 ✅ Goal: Predict power consumption using classic time series models
 📊 Dataset: Household Power Consumption
 🧠 Skills: ARIMA, Prophet, stationarity, decomposition
