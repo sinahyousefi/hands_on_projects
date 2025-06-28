@@ -34,4 +34,4 @@ Welcome to my portfolio of hands-on projects in data science, machine learning, 
 To run the notebooks:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sinahyousefi/hands_on_projects.git
